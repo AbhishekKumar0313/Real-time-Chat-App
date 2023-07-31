@@ -1,0 +1,7 @@
+1. create npm 
+2. create index ,css , js files
+3. install dependencies express,nodemon
+4. crate express server
+5. do front end part
+6. install socket.io 
+7. client send message logic in client.js
